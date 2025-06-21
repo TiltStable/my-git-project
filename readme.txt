@@ -1,2 +1,2 @@
 "Hello, Git!"
-"Git is Awesome"
+"JavaScript is Awesome"
